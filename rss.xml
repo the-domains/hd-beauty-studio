@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HD Beauty Studio]]></title>
         <description><![CDATA[HD Beauty Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hd-beauty-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 12:13:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 12:20:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hd-beauty-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97330563-711f-4a66-8997-a38d034b9f8a.png">]]></description>
+            <link>https://thegrid.ai/hd-beauty-studio/my-aim-is-to-offer-a-professional-easy-to-access-creative/index.html</link>
+            <guid isPermaLink="false">4b802a50-609b-4915-a10b-3030700f35a8</guid>
+            <pubDate>Thu, 18 Aug 2016 12:20:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HD Beauty Studio]]></title>
             <description><![CDATA[<p>My name is Alex Wilkinson and I am passionate about eyebrows. I am fully qualified from the High Definition Group, which is the official brand of HD Brows, who are the experts in brows.</p>]]></description>
-            <link>undefinedhd-beauty-studio/index.html</link>
+            <link>https://thegrid.ai/hd-beauty-studio/hd-beauty-studio/index.html</link>
             <guid isPermaLink="false">b3456696-a476-4a0b-8b78-771408ca6b0f</guid>
             <pubDate>Thu, 18 Aug 2016 12:12:59 GMT</pubDate>
         </item>
